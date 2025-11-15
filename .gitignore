@@ -1,13 +1,7 @@
-# Виртуальное окружение Python
- .venv/
-
- # Кэш Python
- __pycache__/
- *.pyc
-
- # IDE
- .vscode/
- .idea/
-
- # Личные файлы/логи
- История чатов/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+История чатов/
+tests/
